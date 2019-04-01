@@ -1,8 +1,6 @@
 {
     "name": "dtkt/errors",
-    "license": "proprietary",
     "description": "DtKt errors views module",
-    "type": "october-module",
     "authors": [
         {
             "name": "Kulyk Dmytro",
