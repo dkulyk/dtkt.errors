@@ -1,0 +1,21 @@
+{
+    "name": "dtkt/errors",
+    "license": "proprietary",
+    "description": "DtKt errors views module",
+    "type": "october-module",
+    "authors": [
+        {
+            "name": "Kulyk Dmytro",
+            "email": "lnkvisitor.ts@gmail.com"
+        }
+    ],
+    "require": {
+        "rabbitcms/modules": "^2.1"
+    },
+    "extra": {
+        "module": {},
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
